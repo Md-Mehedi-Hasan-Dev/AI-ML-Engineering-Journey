@@ -218,3 +218,41 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+
+# ==============================
+# Additional AI/ML & Data Science
+# ==============================
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# IDE settings
+.idea/
+.vscode/
+
+# Environment variables and secrets
+.env.*
+!.env.example
+
+# Data science temporary files
+*.log
+*.tmp
+*.bak
+
+# Large machine learning model files
+*.pkl
+*.joblib
+*.h5
+*.pt
+*.pth
+*.onnx
+
+# Local datasets (uncomment if needed)
+# data/raw/
+# data/external/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini

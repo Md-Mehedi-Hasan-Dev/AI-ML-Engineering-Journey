@@ -256,3 +256,6 @@ __marimo__/
 .DS_Store
 Thumbs.db
 desktop.ini
+
+# Competitive Programming Helper
+.cph/
